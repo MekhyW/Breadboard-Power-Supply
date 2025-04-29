@@ -530,11 +530,14 @@
       "/5V": [
         "power_output"
       ],
+      "/PWR_OUT_BOTTOM": [
+        "power_output"
+      ],
+      "/PWR_OUT_TOP": [
+        "power_output"
+      ],
       "/PWR_input": [
         "power_input"
-      ],
-      "/PWR_output": [
-        "power_output"
       ]
     },
     "netclass_patterns": [
